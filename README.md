@@ -1,21 +1,21 @@
 # goit-js-46
 
-# Перед началом работы
+# Перед початком роботи
 
-## Настройка Prettier
+## Налаштування Prettier
 
-- установить плагин Prettier в VS Code
+- встановити плагін Prettier в VS Code
 - "editor.formatOnSave": true
 
-## Настройка ESLint
+## Налаштування ESLint
 
-- установить плагин ESLint в VS Code
+- встановити плагін ESLint в VS Code
 - "editor.defaultFormatter": "esbenp.prettier-vscode"
 
-## Установка файлов библиотек
+## Установка файлів бібліотек
 
 - `npm install`
 
-## Более подробно про настройку Prettier + ESLint + Airbnb можете прочитать здесь
+## Більш детально про налаштування Prettier + ESLint + Airbnb можете прочитати тут
 
 [https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a](https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a)
