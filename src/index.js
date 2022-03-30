@@ -53,5 +53,6 @@ console.log(
   students.map((obj) => ({
     ...obj,
     score: obj.score + 100,
+    id: 1,
   })),
 );
